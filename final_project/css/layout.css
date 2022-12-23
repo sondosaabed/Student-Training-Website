@@ -1,0 +1,53 @@
+html *{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+body{
+    font: 14px Arial, Helvetica, sans-serif;
+}
+header{
+    background-color: #d2d2d2;
+    width: 100%;
+    height: 20%;
+    border-bottom: 7px solid black;
+    padding: 20px;
+}
+header img{
+    height: 100px;
+    width: 100px;
+    margin-left: 10pt;
+}
+header>a{
+text-decoration: none;
+font-size: 18px;
+color: blueviolet;
+}
+nav{
+    overflow: hidden;
+    text-align: center;
+    display: flexbox;
+}
+nav a{
+    align-items: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font: 18px black;
+}
+aside{
+    border: 1px solid black;
+    background-color: lightblue;
+    width: 25%;
+    padding: 20px;
+    position: absolute;
+    top: 250pt;
+    left: 800pt;
+}
+footer{
+    background-color: #d2d2d2;
+    width: 100%;
+    border-top:  7px solid black;
+    padding: 20px;
+    display: inline-block;
+    text-align: center;
+}
