@@ -1,5 +1,5 @@
 # StudentTrainingWebFinal
-In this project we connect to the LocalHost server in oreder to implemnet the Student Trainig Project, using PHP pdo and HTML5, CSS3. This project was the final project for Web course. 
+In this project we connect to the LocalHost server in oreder to implemnet the Student Trainig Project, using PHP pdo, MySQL quieries to get the Student and Companies Data and HTML5, CSS3. This project was the final project for Web course. 
 Follows a preview of:
 Home page:
 ![image](https://user-images.githubusercontent.com/65151701/209364005-da329aea-e40f-4b2e-98c4-197b75ac81dd.png)
