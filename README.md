@@ -1,4 +1,4 @@
-# Student-Training-Website:
+# Student Training Website:
 In this project we connect to the LocalHost server in oreder to implemnet the Student Trainig Project, using PHP pdo, MySQL quieries to get the Student and Companies Data and HTML5, CSS3. This project was the final project for Web course. 
 Follows a preview of:
 Home page:
